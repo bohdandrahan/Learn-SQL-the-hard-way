@@ -37,5 +37,5 @@ CREATE TABLE class_object(
 
 CREATE TABLE class_inheritanse (
 	parrent_class_id INTEGER,
-	child_class_id INTEGER)
+	child_class_id INTEGER	)
  */
